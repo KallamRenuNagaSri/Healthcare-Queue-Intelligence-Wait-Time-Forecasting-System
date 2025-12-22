@@ -37,15 +37,17 @@ This project is designed with **real-world hospital operations** in mind and fol
 
 ## 🧠 High-Level System Flow
 
+```
 Patient Check-In
-↓
+        ↓
 Queue Assignment
-↓
+        ↓
 Queue State Management
-↓
+        ↓
 Wait-Time Estimation
-↓
+        ↓
 Patient Status API
+```
 
 ---
 
