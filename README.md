@@ -49,9 +49,6 @@ Patient Status API
 
 ---
 
-
----
-
 ## 🔍 Core Features
 
 ### ✅ Patient Intake API
